@@ -1,3 +1,6 @@
+## 🌐 Explore the Project  
+Ready to dive in? Check out the live project in Google drive : [AR Discoveries](https://drive.google.com/drive/folders/1SJJfcU0lY7iKOy2WdNdwQPdrg6HURBK_?usp=sharing). 
+
 # 🌟 AR Discoveries: Revolutionizing Education with Augmented Reality  
 
 Welcome to **AR Discoveries**—an innovative educational app designed to inspire, engage, and empower children through the magic of augmented reality (AR). Dive into a world where learning meets technology, unlocking a treasure trove of knowledge through captivating 3D models and interactive information panels.  
