@@ -35,9 +35,7 @@ https://youtu.be/AX3SuC88GkA?si=rCBVegaBaVnKTfn9
 ## 📸 Screenshots  
 
 Here’s a sneak peek into **AR Discoveries**:  
-## 📸 Screenshots  
 
-Here’s a sneak peek into **AR Discoveries**:  
 ## 1. **Main Interface**
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture1.png" alt="Picture1" width="270">
