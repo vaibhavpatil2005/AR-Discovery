@@ -35,23 +35,35 @@ https://youtu.be/AX3SuC88GkA?si=rCBVegaBaVnKTfn9
 ## 📸 Screenshots  
 
 Here’s a sneak peek into **AR Discoveries**:  
-1. **Main Interface**  
-![Screenshot 1](https://via.placeholder.com/800x400?text=Main+Interface)
-"C:\Users\Smart-Computer\Pictures\Project Exhibition II\Picture1.png"
-![image](https://github.com/user-attachments/assets/e844dcc4-5d8a-44e8-a989-6b936d2fd4e0)
+## 📸 Screenshots  
 
+Here’s a sneak peek into **AR Discoveries**:  
+1. **Main Interface**
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Picture1.png" alt="Picture1" width="300">
+  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Picture2.png" alt="Picture2" width="300">
+  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Picture3.png" alt="Picture3" width="300">
+</div>
+
+
+
+
+
+
+
+
+
+![Main Interface](https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Picture1.png)  
 3. **Animal Category**  
-![Screenshot 2](https://via.placeholder.com/800x400?text=Animal+Category)  
+![Animal Category](https://github.com/YourUsername/YourRepositoryName/blob/main/animal-category.png)  
 4. **3D Model Example**  
-![Screenshot 3](https://via.placeholder.com/800x400?text=3D+Model+Example)  
+![3D Model Example](https://github.com/YourUsername/YourRepositoryName/blob/main/3d-model-example.png)  
 5. **Interactive Panel**  
-![Screenshot 4](https://via.placeholder.com/800x400?text=Interactive+Panel)  
+![Interactive Panel](https://github.com/YourUsername/YourRepositoryName/blob/main/interactive-panel.png)  
 6. **Pause Functionality**  
-![Screenshot 5](https://via.placeholder.com/800x400?text=Pause+Functionality)  
+![Pause Functionality](https://github.com/YourUsername/YourRepositoryName/blob/main/pause-functionality.png)  
 7. **Learning in Action**  
-![Screenshot 6](https://via.placeholder.com/800x400?text=Learning+in+Action)  
-
----
+![Learning in Action](https://github.com/YourUsername/YourRepositoryName/blob/main/learning-in-action.png)  
 
 ## 🌐 Explore the Project  
 Ready to dive in? Check out the live project: [AR Discoveries](https://your-project-link.com).  
