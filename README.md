@@ -27,7 +27,7 @@ Simply point your device's camera at a designated picture, and watch the learnin
 ---
 
 ## 📹 Demo Video  
-Watch our project in action on .  
+Watch our project in action on YOUTUBE.  
 https://youtu.be/AX3SuC88GkA?si=rCBVegaBaVnKTfn9
 
 ---
@@ -38,35 +38,30 @@ Here’s a sneak peek into **AR Discoveries**:
 ## 📸 Screenshots  
 
 Here’s a sneak peek into **AR Discoveries**:  
-1. **Main Interface**
+## 1. **Main Interface**
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Picture1.png" alt="Picture1" width="300">
-  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Picture2.png" alt="Picture2" width="300">
-  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Picture3.png" alt="Picture3" width="300">
+  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture1.png" alt="Picture1" width="330">
+  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture2.png" alt="Picture2" width="330">
+  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture3.png" alt="Picture3" width="330">
 </div>
 
+## 2. **Gadgets: Category**  
+<img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture6.png" alt="Picture6" width="1000">
 
 
+## 3. **Vehicles: Category**  
+<img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture7.png" alt="Picture7" width="1000">
 
+## 4. **Animal: Category**  
+<img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture8.png" alt="Picture8" width="1000">
 
+## 5. **Insects: Category**  
+<img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture9.png" alt="Picture9" width="1000">
 
+## 6. **Vegetables: Category**  
+<img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture10.png" alt="Picture10" width="1000">
 
-
-
-![Main Interface](https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Picture1.png)  
-3. **Animal Category**  
-![Animal Category](https://github.com/YourUsername/YourRepositoryName/blob/main/animal-category.png)  
-4. **3D Model Example**  
-![3D Model Example](https://github.com/YourUsername/YourRepositoryName/blob/main/3d-model-example.png)  
-5. **Interactive Panel**  
-![Interactive Panel](https://github.com/YourUsername/YourRepositoryName/blob/main/interactive-panel.png)  
-6. **Pause Functionality**  
-![Pause Functionality](https://github.com/YourUsername/YourRepositoryName/blob/main/pause-functionality.png)  
-7. **Learning in Action**  
-![Learning in Action](https://github.com/YourUsername/YourRepositoryName/blob/main/learning-in-action.png)  
-
-## 🌐 Explore the Project  
-Ready to dive in? Check out the live project: [AR Discoveries](https://your-project-link.com).  
+ 
 
 ---
 
@@ -76,4 +71,10 @@ Ready to dive in? Check out the live project: [AR Discoveries](https://your-proj
 ---
 
 ## 🤝 Acknowledgements  
-Special thanks to **Vuforia** for their robust AR platform that powers our app.  
+Special thanks to:  
+- **Vuforia** for their robust AR platform.  
+- **Unity Engine** for the powerful development environment.  
+- **Eleven Labs** for providing exceptional voiceover tools.  
+- **Canva** for enabling us to design stunning visuals.
+
+  ### Special thanks to:  Aman Rahangdale,Mohit,Rohit Sahu
