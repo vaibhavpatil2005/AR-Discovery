@@ -40,9 +40,9 @@ Here’s a sneak peek into **AR Discoveries**:
 Here’s a sneak peek into **AR Discoveries**:  
 ## 1. **Main Interface**
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture1.png" alt="Picture1" width="30">
-  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture2.png" alt="Picture2" width="330">
-  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture3.png" alt="Picture3" width="330">
+  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture1.png" alt="Picture1" width="280">
+  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture2.png" alt="Picture2" width="280">
+  <img src="https://github.com/vaibhavpatil2005/AR-Discovery/blob/main/Images/Picture3.png" alt="Picture3" width="280">
 </div>
 
 ## 2. **Gadgets: Category**  
