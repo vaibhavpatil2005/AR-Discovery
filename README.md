@@ -1,5 +1,5 @@
 ## 🌐 Explore the Project  
-Ready to dive in? Check out the live project in Google drive : [AR Discoveries](https://drive.google.com/drive/folders/1SJJfcU0lY7iKOy2WdNdwQPdrg6HURBK_?usp=sharing). 
+Ready to dive in? Check out the project in Google drive : [AR Discoveries](https://drive.google.com/drive/folders/1SJJfcU0lY7iKOy2WdNdwQPdrg6HURBK_?usp=sharing). 
 
 # 🌟 AR Discoveries: Revolutionizing Education with Augmented Reality  
 
